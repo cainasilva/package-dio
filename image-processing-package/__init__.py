@@ -1,0 +1,13 @@
+image-processing-package/
+    README.md
+    setup.py
+    image_processing/
+    __init__.py
+    processing/
+        __init__.py
+            combination.py
+            transformation.py
+    utils/
+        __init__.py
+            io.py
+            plot.py
